@@ -50,7 +50,8 @@ While underwater hyperspectral imaging offers a promising solution to overcome t
 This PhD will directly build upon a collaborative project with the University of Hawaii, leveraging the autonomous underwater vehicle (AUV) and autonomous sea vehicle (ASV) platform design by QUT and the extensive datasets generated. This dual-vehicle approach for attenuation correction was pioneered in foundational work by Bongiorno et al. [13]. 
 
 <img width="927" height="377" alt="hyperspectral_AUV" src="https://github.com/user-attachments/assets/e0a99e0a-01b3-489a-a651-e97adcdac91f" />
-*Fig. 2: Ranerbot Mantis equipped with a hyperspectral line scan camera.*
+
+*Fig. 2: Rangerbot Mantis equipped with a hyperspectral line scan camera deployed on the Great Barrier Reef.*
 
 The research will extend the platform's current capabilities from detecting a single known species to a broader framework for discovering and classifying unknown biodiversity. The project will be structured into three primary phases:
 
@@ -120,30 +121,30 @@ By solving key technical barriers in underwater data acquisition and analysis, t
 
 [1] Institute for Marine and Antarctic Studies, "Submission to the Senate Inquiry into climate-related marine invasive species," University of Tasmania, Oct. 2022. [Online]. Available: https://www.imas.utas.edu.au/__data/assets/pdf_file/0011/1623593/IMAS-Submission-to-the-senate-inquiry-on-climate-related-marine-and-invasive-species_Final.pdf
 
-[2] S. Bennett, T. Wernberg, S. D. Connell, A. J. Hobday, C. R. Johnson, and E. S. Poloc]anska, "The ‘Great Southern Reef’: social, ecological and economic value of Australia’s neglected kelp forests," *Mar. Freshwater Res.*, vol. 67, no. 1, pp. 47–56, 2016.
+[2] S. Bennett, T. Wernberg, S. D. Connell, A. J. Hobday, C. R. Johnson, and E. S. Polocanska, "The ‘Great Southern Reef’: social, ecological and economic value of Australia’s neglected kelp forests," *Mar. Freshwater Res.*, vol. 67, no. 1, pp. 47–56, 2016. https://doi.org/10.1071/MF15232
 
-[3] S. D. Ling, "Range expansion of a habitat-modifying species leads to loss of taxonomic diversity: a new and impoverished reef state," *Oecologia*, vol. 156, no. 4, pp. 883–894, 2008.
+[3] S. D. Ling, "Range expansion of a habitat-modifying species leads to loss of taxonomic diversity: a new and impoverished reef state," *Oecologia*, vol. 156, no. 4, pp. 883–894, 2008. https://doi.org/10.1007/s00442-008-1043-9
 
-[4] Office of the Premier of Tasmania, "Reducing longspined sea urchin impacts," Nov. 7, 2023. [Online]. Available: https://www.premier.tas.gov.au/site_resources/additional_releases/reducing-longspined-sea-urchin-impacts
+[4] Office of the Premier of Tasmania, "Reducing longspined sea urchin impacts," Nov. 7, 2023. [Online]. Available: https://www.premier.tas.gov.au/latest-news/2024/october/reducing-longspined-sea-urchin-impacts
 
-[5] Senate Standing Committees on Environment and Communications, *Win-win under our oceans: Climate-related marine invasive species*, Parliament of Australia, Canberra, ACT, Nov. 2023.
+[5] Senate Standing Committees on Environment and Communications, *Win-win under our oceans: Climate-related marine invasive species*, Parliament of Australia, Canberra, ACT, Nov. 2023. [Online]. Available: https://parlinfo.aph.gov.au/parlInfo/download/committees/reportsen/RB000056/toc_pdf/Win-winunderouroceansClimate-relatedmarineinvasivespecies.pdf
 
-[6] B. Liu, ]. Liu, S. Men, Y. Li, ]. Ding, J. He, and . hao, "Underwater Hyperspectral Imaging Technology and Its Applications for Detecting and Mapping the Seafloor: A Review," *Sensors*, vol. 20, no. 17, p. 4962, 2020.
+[6] B. Liu,. Liu, S. Men, Y. Li,. Ding, J. He, and . hao, "Underwater Hyperspectral Imaging Technology and Its Applications for Detecting and Mapping the Seafloor: A Review," *Sensors*, vol. 20, no. 17, p. 4962, 2020. https://doi.org/10.3390/s20174962
 
-[7] A. Chennu, P. Färber, G. De’ath, D. de Beer, and K. E. Fabricius, “A diver-operated hyperspectral imaging and topographic surveying system for automated mapping of benthic habitats,” *Scientific Reports*, vol. 7, Aug. 2017.
+[7] A. Chennu, P. Färber, G. De’ath, D. de Beer, and K. E. Fabricius, “A diver-operated hyperspectral imaging and topographic surveying system for automated mapping of benthic habitats,” *Scientific Reports*, vol. 7, Aug. 2017.  https://doi.org/10.1038/s41598-017-07337-y
 
-[8] N. Summers, G. Johnsen, A. Mogstad, H. Løvås, G. Fragoso, and J. Berge, "Underwater Hyperspectral Imaging of Arctic Macroalgal Habitats during the Polar Night Using a Novel Mini-ROV-UHI Portable System," *Remote Sens.*, vol. 14, no. 6, p. 1325, 2022.
+[8] N. Summers, G. Johnsen, A. Mogstad, H. Løvås, G. Fragoso, and J. Berge, "Underwater Hyperspectral Imaging of Arctic Macroalgal Habitats during the Polar Night Using a Novel Mini-ROV-UHI Portable System," *Remote Sens.*, vol. 14, no. 6, p. 1325, 2022. https://doi.org/10.3390/rs14061325
 
-[9] J. Sauder, G. Banc-Prandi, A. Meibom, and D. Tuia, "Scalable semantic 3D mapping of coral reefs with deep learning," *Methods in Ecology and Evolution*, vol. 15, no. 5, pp. 916-934, 2024.
+[9] J. Sauder, G. Banc-Prandi, A. Meibom, and D. Tuia, "Scalable semantic 3D mapping of coral reefs with deep learning," *Methods in Ecology and Evolution*, vol. 15, no. 5, pp. 916-934, 2024. https://doi.org/10.1111/2041-210X.14307
 
-[10] S. Raine, R. Marchant, B. Kusy, F. Maire, and T. Fischer, "Point Label Aware Superpixels for Multi-species Segmentation of Underwater Imagery," *IEEE Robotics and Automation Letters*, vol. 7, no. 3, pp. 8291-8298, 2022.
+[10] S. Raine, R. Marchant, B. Kusy, F. Maire, and T. Fischer, "Point Label Aware Superpixels for Multi-species Segmentation of Underwater Imagery," *IEEE Robotics and Automation Letters*, vol. 7, no. 3, pp. 8291-8298, 2022. https://doi.org/10.1109/LRA.2022.3187836
 
-[11] T. Remmers, A. Grech, C. Roelfsema, *et al.*, "Close-range underwater photogrammetry for coral reef ecology: a systematic literature review," *Coral Reefs*, vol. 43, pp. 35–52, 2024.
+[11] T. Remmers, A. Grech, C. Roelfsema, *et al.*, "Close-range underwater photogrammetry for coral reef ecology: a systematic literature review," *Coral Reefs*, vol. 43, pp. 35–52, 2024. https://doi.org/10.1007/s00338-023-02445-w
 
-[12] S. Raine, R. Marchant, B. Kusy, F. Maire, N. Sünderhauf, and T. Fischer, "Human-in-the-Loop Segmentation of Multi-species Coral Imagery," in *Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recog. (CVPR) Workshops*, 2024, pp. 2723-2732.
+[12] S. Raine, R. Marchant, B. Kusy, F. Maire, N. Sünderhauf, and T. Fischer, "Human-in-the-Loop Segmentation of Multi-species Coral Imagery," in *Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recog. (CVPR) Workshops*, 2024, pp. 2723-2732. https://doi.org/10.48550/arXiv.2404.09406
 
-[13] D. L. Bongiorno, M. Bryson, T. C. L. Bridge, D. G. Dansereau, and S. B. Williams, "Coregistered Hyperspectral and Stereo Image Seafloor Mapping from an Autonomous Underwater Vehicle," *J. Field Robot.*, vol. 35, no. 3, pp. 312–329, 2018.
+[13] D. L. Bongiorno, M. Bryson, T. C. L. Bridge, D. G. Dansereau, and S. B. Williams, "Coregistered Hyperspectral and Stereo Image Seafloor Mapping from an Autonomous Underwater Vehicle," *J. Field Robot.*, vol. 35, no. 3, pp. 312–329, 2018. https://doi.org/10.1002/rob.21713
 
-[14] M. Ferrera, A. Arnaubec, K. Istenič, N. Gracias and T. Bajjouk, "Hyperspectral 3D Mapping of Underwater Environments," in *Proc. IEEE/CVF Int. Conf. Comput. Vis. Workshops (ICCVW)*, Montreal, BC, Canada, 2021, pp. 3696–3705.
+[14] M. Ferrera, A. Arnaubec, K. Istenič, N. Gracias and T. Bajjouk, "Hyperspectral 3D Mapping of Underwater Environments," in *Proc. IEEE/CVF Int. Conf. Comput. Vis. Workshops (ICCVW)*, Montreal, BC, Canada, 2021, pp. 3696–3705. https://doi.org/10.1109/ICCVW54120.2021.00413
 
-[15] M. Bryson, M. Johnson-Roberson, O. Pizarro, and S. B. Williams, "True Color Correction of Autonomous Underwater Vehicle Imagery," *J. Field Robot.*, vol. 33, no. 8, pp. 853–874, 2016.
+[15] M. Bryson, M. Johnson-Roberson, O. Pizarro, and S. B. Williams, "True Color Correction of Autonomous Underwater Vehicle Imagery," *J. Field Robot.*, vol. 33, no. 8, pp. 853–874, 2016. https://doi.org/10.1002/rob.21638
